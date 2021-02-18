@@ -2,6 +2,8 @@
   "nbdev_tutorial": {
     "Overview": "/",
     "module name here": "core.html",
-    "Card": "card.html"
+    "Card": "card.html",
+    "nbdev first experiences with text styles ": "Formating_examples.html",
+    "Project name here": "index-checkpoint.html"
   }
 }

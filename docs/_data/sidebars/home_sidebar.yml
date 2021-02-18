@@ -15,6 +15,12 @@ entries:
     - output: web,pdf
       title: Card
       url: card.html
+    - output: web,pdf
+      title: 'nbdev first experiences with text styles '
+      url: Formating_examples.html
+    - output: web,pdf
+      title: Project name here
+      url: index-checkpoint.html
     output: web
     title: nbdev_tutorial
   output: web
